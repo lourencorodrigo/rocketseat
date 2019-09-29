@@ -1,0 +1,16 @@
+{
+  "name": "module01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Rodrigo Lourenco da Silva",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.3"
+  }
+}
